@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+
+.navbar {
+    padding: 10px 50px;
+    background-color: whitesmoke;
+}
+
+.navbar-nav-right {
+    margin-left: auto;
+}
+
+.navbar-nav li a {
+    color: gray;
+    font-weight: 400;
+    transition: font-size 0.2s;
+}
+
+.navbar-nav li a:hover {
+    color: green;
+    font-weight: 600;
+    font-size: 1.1em;
+}
+
+.navbar-brand {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.navbar-brand .green-text {
+    color: green;
+    font-weight: 400;
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+.home-section {
+    position: relative;
+    background-image: url('/img/Background.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.home-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.home-content h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.home-content p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.home-content .btn {
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 15px 30px;
+    font-size: 18px;
+    text-transform: uppercase;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.home-content .btn:hover {
+    background-color: #218838;
+}
+
+
+.why-choose-us {
+    padding: 50px;
+    background-color: white;
+}
+
+.why-choose-us h3 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.card {
+    background-color: transparent;
+    border: none;
+    text-align: center;
+}
+
+.card-icon {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+.text-primary {
+    color: #007bff;
+}
+
+.text-success {
+    color: #28a745;
+}
+
+.text-danger {
+    color: #dc3545;
+}
+
+.services-section {
+    background-color: whitesmoke;
+    padding: 50px;
+    margin: 0;
+}
+
+.service-card {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.service-card .card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.services-section h3 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.service-card h5 {
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+
+.service-card p {
+    font-size: 10px;
+}
+
+.view-all-services-button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 250px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.view-all-services-button:hover {
+    background-color: #218838;
+    color: white;
+}
+
+.custom-section {
+    background-color: rgba(134, 219, 134, 0.913);
+    padding: 50px;
+}
+
+.section-title {
+    font-size: 45px;
+    font-weight: bold;
+    color: #333;
+    font-family: 'DM Serif Display', serif;
+}
+
+.section-text {
+    font-size: 16px;
+    color: #555;
+}
+
+.testimonials-section {
+    background-color: #f9f9f9;
+    padding: 50px;
+}
+
+.testimonials-section h3 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.testimonial-card {
+    border: none;
+    transition: transform 0.2s;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-card:hover {
+    transform: translateY(-5px);
+}
+
+.testimonial-author-img img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto 15px;
+    display: block;
+}
+
+.testimonial-text {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.testimonial-stars {
+    color: #ffcc00;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.testimonial-author {
+    font-size: 14px;
+    font-weight: bold;
+    color: #555;
+}
+
+.footer-section {
+    background-color: black;
+    color: #fff;
+    padding: 50px;
+}
+
+.footer-section h4 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 400;
+}
+
+.footer-section h4 .green-text {
+    color: green;
+    font-weight: 400;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+    color: #555;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-section ul li a:hover {
+    color: #28a745;
+}
+
+hr {
+    color: #28a745;
+    margin: 20px 0;
+}
+
+.social-icon {
+    font-size: 20px;
+    color: #fff;
+    margin-right: 15px;
+    transition: font-size 0.2s;
+}
+
+.social-icon:hover {
+    color: green;
+    font-size: 10px;
+}
+
+.footer-section p {
+    margin: 10px 0;
+    font-size: 10px;
+    color: #555;
+}
+
+.footer-icon a {
+    font-size: 10px;
+    text-decoration: none;
+}
+
+.footer-icon i {
+    margin-left: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color: green;
+}
+
+.footer-icon i:hover {
+    color: grey;
+}
