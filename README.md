@@ -31,7 +31,7 @@ The Wellness Renewed Project simulates a wellness center environment offering a 
 ## 404 Error Page
 
 If you encounter a 404 error page, it means the requested page could not be found. Please check the URL or navigate back to the homepage.
-![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura4.png)
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/27f55699d559a1c154d48f6417bbb17e677f0838/img/Captura4.png)
 
 ## Technologies Used
 
