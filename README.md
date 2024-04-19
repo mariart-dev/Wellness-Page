@@ -28,12 +28,6 @@ The Wellness Renewed Project simulates a wellness center environment offering a 
 - Contact section providing simulated contact information for the center.
 - Responsive design for seamless viewing across devices.
 
-## 404 Error Page
-
-If you encounter a 404 error page, it means the requested page could not be found. Please check the URL or navigate back to the homepage.
-
-![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/27f55699d559a1c154d48f6417bbb17e677f0838/img/Captura4.png)
-
 ## Technologies Used
 
 - HTML5
@@ -41,6 +35,12 @@ If you encounter a 404 error page, it means the requested page could not be foun
 - Bootstrap 5
 - Font Awesome Icons
 - Google Fonts
+
+## 404 Error Page
+
+If you encounter a 404 error page, it means the requested page could not be found. Please check the URL or navigate back to the homepage.
+
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/27f55699d559a1c154d48f6417bbb17e677f0838/img/Captura4.png)
 
 ## Installation
 
