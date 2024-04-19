@@ -1,4 +1,4 @@
-# Wellness Renewed Project
+# Wellness Renewed Page
 
 ![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura1.png)
 ![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura2.png)
