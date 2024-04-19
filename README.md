@@ -1,6 +1,8 @@
 # Wellness Renewed Project
 
-![Wellness Renewed](/img/logo.png)
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura1.png)
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura2.png)
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura3.png)
 
 Welcome to the Wellness Renewed Project, a simulated wellness center aimed at showcasing various massage therapies. This project serves as a demonstration of a wellness center website and provides insights into its structure and features.
 
