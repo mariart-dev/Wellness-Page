@@ -18,7 +18,7 @@ Welcome to the Wellness Renewed Project, a simulated wellness center aimed at sh
 
 ## Introduction
 
-The Wellness Renewed Project simulates a wellness center environment offering a range of massage services tailored to individual needs. This project is designed to demonstrate the functionality and layout of a wellness center website, including service descriptions, client testimonials, and contact information.
+The Wellness Renewed Project simulates a wellness center environment offering a range of massage services tailored to individual needs. This project is designed to demonstrate the functionality and layout of a wellness center website, including service descriptions, client testimonials, and contact information. Additionally, it includes a custom 404 error page to handle situations where a requested page is not found.
 
 ## Features
 
@@ -27,6 +27,11 @@ The Wellness Renewed Project simulates a wellness center environment offering a 
 - Testimonials section showcasing hypothetical feedback from satisfied clients.
 - Contact section providing simulated contact information for the center.
 - Responsive design for seamless viewing across devices.
+
+## 404 Error Page
+
+If you encounter a 404 error page, it means the requested page could not be found. Please check the URL or navigate back to the homepage.
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura4.png)
 
 ## Technologies Used
 
