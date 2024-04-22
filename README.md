@@ -1,8 +1,8 @@
 # Wellness Renewed Page
 
 ![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/1add3af400ec3f73eadcf38e23b5d618a4a216d8/img/Captura1.png)
-![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura2.png)
-![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/9bf59633dd25c145275a7f8e12f6a99ed759fe92/img/Captura3.png)
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/c5ec0da915542df9223c9ac1547e89cf3c667638/img/Captura2.png)
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/c5ec0da915542df9223c9ac1547e89cf3c667638/img/Captura3.png)
 
 Welcome to the Wellness Renewed Project, a simulated wellness center aimed at showcasing various massage therapies. This project serves as a demonstration of a wellness center website and provides insights into its structure and features.
 
@@ -40,7 +40,7 @@ The Wellness Renewed Project simulates a wellness center environment offering a 
 
 If you encounter a 404 error page, it means the requested page could not be found. Please check the URL or navigate back to the homepage.
 
-![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/27f55699d559a1c154d48f6417bbb17e677f0838/img/Captura4.png)
+![Wellness Renewed](https://github.com/mariart-dev/Wellness-Page/blob/c5ec0da915542df9223c9ac1547e89cf3c667638/img/Captura4.png)
 
 ## Installation
 
