@@ -6,6 +6,10 @@
 
 Welcome to the Wellness Renewed Project, a simulated wellness center aimed at showcasing various massage therapies. This project serves as a demonstration of a wellness center website and provides insights into its structure and features.
 
+### Colors
+
+![Colors](https://github.com/mariart-dev/Wellness-Page/blob/75ee858518eeb845072c4414ac684b400699e648/img/Colors.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
