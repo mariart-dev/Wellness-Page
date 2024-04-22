@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #EFCFBA;
 }
 
 
@@ -14,15 +14,15 @@ body {
 
 .error-content {
     text-align: center;
-    background-color: #fff; 
+    background-color: #F2E8DA; 
     padding: 40px;
     border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5); 
 }
 
 .error-content h1 {
     font-size: 100px;
-    color: green; 
+    color: #dc3545; 
 }
 
 
@@ -34,4 +34,24 @@ body {
 .error-content p {
     font-size: 18px;
     margin-bottom: 30px;
+}
+
+
+
+.btn-404 {
+    background-color: #9D5956;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 250px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-404:hover {
+    background-color: #dc3545;
+    color: white;
 }

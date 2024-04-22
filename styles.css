@@ -3,7 +3,7 @@
 
 .navbar {
     padding: 10px 50px;
-    background-color: whitesmoke;
+    background-color: #F2E8DA;
 }
 
 .navbar-nav-right {
@@ -11,13 +11,13 @@
 }
 
 .navbar-nav li a {
-    color: gray;
+    color: #F97272;
     font-weight: 400;
     transition: font-size 0.2s;
 }
 
 .navbar-nav li a:hover {
-    color: green;
+    color: #ffbe98;
     font-weight: 600;
     font-size: 1.1em;
 }
@@ -26,10 +26,11 @@
     font-family: 'Abril Fatface', cursive;
     font-weight: 400;
     font-size: 25px;
+    color: #9D5956;
 }
 
 .navbar-brand .green-text {
-    color: green;
+    color: #F97272;
     font-weight: 400;
 }
 
@@ -63,7 +64,7 @@ html, body {
 }
 
 .home-content .btn {
-    background-color: green;
+    background-color: #F97272;
     color: #fff;
     border: none;
     border-radius: 20px;
@@ -74,13 +75,13 @@ html, body {
 }
 
 .home-content .btn:hover {
-    background-color: #218838;
+    background-color: #DCBD9E;
 }
 
 
 .why-choose-us {
     padding: 50px;
-    background-color: white;
+    background-color: #EFCFBA;
 }
 
 .why-choose-us h3 {
@@ -102,20 +103,20 @@ html, body {
     margin-top: 50px;
 }
 
-.text-primary {
-    color: #007bff;
+.therapist i {
+    color: #9D5956;
 }
 
-.text-success {
-    color: #28a745;
+.Atmosphere i {
+    color: #DE8286;
 }
 
-.text-danger {
-    color: #dc3545;
+.Treatments i {
+    color: #F97272;
 }
 
 .services-section {
-    background-color: whitesmoke;
+    background-color:#F2E8DA;
     padding: 50px;
     margin: 0;
 }
@@ -154,7 +155,7 @@ html, body {
 }
 
 .view-all-services-button {
-    background-color: green;
+    background-color: #dc3545;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -167,12 +168,12 @@ html, body {
 }
 
 .view-all-services-button:hover {
-    background-color: #218838;
+    background-color: #9D5956;
     color: white;
 }
 
 .custom-section {
-    background-color: rgba(134, 219, 134, 0.913);
+    background-color: #ffbe98;
     padding: 50px;
 }
 
@@ -189,7 +190,7 @@ html, body {
 }
 
 .testimonials-section {
-    background-color: #f9f9f9;
+    background-color:#F2E8DA;
     padding: 50px;
 }
 
@@ -227,7 +228,7 @@ html, body {
 }
 
 .testimonial-stars {
-    color: #ffcc00;
+    color: #F97272;
     font-size: 20px;
     margin-bottom: 15px;
 }
@@ -239,7 +240,7 @@ html, body {
 }
 
 .footer-section {
-    background-color: black;
+    background-color: #9D5956;
     color: #fff;
     padding: 50px;
 }
@@ -249,10 +250,11 @@ html, body {
     margin-bottom: 20px;
     font-family: 'Abril Fatface', cursive;
     font-weight: 400;
+    color: #EFCFBA;
 }
 
 .footer-section h4 .green-text {
-    color: green;
+    color: #F97272;
     font-weight: 400;
 }
 
@@ -266,36 +268,36 @@ html, body {
 }
 
 .footer-section ul li a {
-    color: #555;
+    color: #F2E8DA;
     text-decoration: none;
     font-size: 14px;
 }
 
 .footer-section ul li a:hover {
-    color: #28a745;
+    color: #DE8286;
 }
 
 hr {
-    color: #28a745;
+    color: #F2E8DA;
     margin: 20px 0;
 }
 
 .social-icon {
     font-size: 20px;
-    color: #fff;
+    color: #F2E8DA;
     margin-right: 15px;
     transition: font-size 0.2s;
 }
 
 .social-icon:hover {
-    color: green;
+    color: #ffbe98;
     font-size: 10px;
 }
 
 .footer-section p {
     margin: 10px 0;
     font-size: 10px;
-    color: #555;
+    color: #ffbe98;
 }
 
 .footer-icon a {
@@ -307,9 +309,9 @@ hr {
     margin-left: 10px;
     font-size: 15px;
     text-decoration: none;
-    color: green;
+    color: #F97272;
 }
 
 .footer-icon i:hover {
-    color: grey;
+    color: #F2E8DA;
 }
